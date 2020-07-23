@@ -1,0 +1,14 @@
+1. razdvojiti css u zasebne fajlove i sve stavit u css folder
+2. slike prebacit u img
+3. javascript u js
+4. obrisat sve što ne treba
+5. promijeniti Bengal.html u nešto smisleno - npr. bike_template.html
+
+
+GIT
+
+git init (samo prvi put)
+git add .
+git commit -m "Initial commit"
+dodati remote origin
+git push -u origin master
